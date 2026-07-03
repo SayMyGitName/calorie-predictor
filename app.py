@@ -249,4 +249,6 @@ with gr.Blocks(css=custom_css) as demo:
                      inputs=[patient_name, hospital_name, doctor_name, gender, age, height, weight, duration, heart_rate, body_temp, additional_notes],
                      outputs=[output, download])
 
+# Guarded launch so app can be imported without starting Gradio
+if __name__ == "__main__":
     demo.launch(share=True)
