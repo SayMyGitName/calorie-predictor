@@ -37,7 +37,7 @@ The application provides a modern web interface built with **Gradio**, generates
 
 Example:
 
-![Application Screenshot](images/app-preview.png)
+![Application Screenshot](‪C:\Users\Satvik\OneDrive\Desktop\images\App.png)
 
 ---
 
@@ -47,7 +47,7 @@ Example:
 
 Example:
 
-![PDF Preview](images/report-preview.png)
+![PDF Preview](‪C:\Users\Satvik\OneDrive\Desktop\images\Report.png)
 
 ---
 
